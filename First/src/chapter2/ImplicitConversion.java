@@ -3,7 +3,7 @@ package chapter2;
 public class ImplicitConversion {
 
 	public static void main(String[] args) {
-		// 형변환 - 묵시적 형 변환(자동)
+		// 형변환 - 묵시적 형 변환(자동) 
 		
 		// 1. 바이트 크기가 작은 자료형에서 큰자료형
 		byte bNum = 10;

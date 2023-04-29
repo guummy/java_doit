@@ -11,7 +11,7 @@ public class CharactorEx3 {
 		
 		// char형은 문자자료형이지만 정수자료형으로 분류할 수 있음
 		char a2 = 65;
-		// 하지만 음수값은 표현하지 못한다!!!
+		// 하지만 음수값은 표현하지 못한다!!
 //		char b2 = - 66;  => 오류
 		
 		System.out.println((char)a);

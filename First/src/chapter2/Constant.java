@@ -12,7 +12,7 @@ public class Constant {
 		System.out.println(MAX_NUM);
 		System.out.println(MIN_NUM);
 		
-//		MAX_NUM = 1000;  !오류 : 상수값은 변경할수 없다
+//		MAX_NUM = 1000;  오류 : 상수값은 변경할수 없다
 
 	}
 

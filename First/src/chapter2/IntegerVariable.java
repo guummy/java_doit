@@ -3,7 +3,7 @@ package chapter2;
 public class IntegerVariable {
 
 	public static void main(String[] args) {
-//		자료형이 다른 정수끼리 더할때
+//		자료형이 다른 정수끼리 더할때 
 		short sVal = 10;
 		byte bVal = 20;
 		System.out.println(sVal + bVal);
