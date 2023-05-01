@@ -3,7 +3,7 @@ package operator;
 public class OperationEx2 {
 
 	public static void main(String[] args) {
-		int gameScore = 150;
+		int gameScore = 150; 
 		System.out.println("0번: "+gameScore);
 		
 		// 증가,감소 연산자의 위치에 따라 값이 다르게 나옴
